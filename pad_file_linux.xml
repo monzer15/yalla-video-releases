@@ -36,9 +36,9 @@
 
   <Program_Info>
     <Program_Name>Yalla Video</Program_Name>
-    <Program_Version>1.1.1</Program_Version>
+    <Program_Version>1.1.2</Program_Version>
     <Program_Release_Month>05</Program_Release_Month>
-    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Day>15</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
     <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
@@ -48,7 +48,7 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Linux</Program_OS_Support>
     <Program_Language>English,Arabic,Spanish,French,German,Italian,Portuguese,Russian,Turkish,Chinese,Japanese,Korean</Program_Language>
-    <Program_Change_Info>Improved download manager, expanded site support, refreshed UI themes, and stability fixes.</Program_Change_Info>
+    <Program_Change_Info>Renamed application identifier for Flathub compatibility. No functional changes.</Program_Change_Info>
     <Program_Specific_Category>Audio &amp; Video</Program_Specific_Category>
     <Program_Category_Class>Audio &amp; Video::Video Tools</Program_Category_Class>
     <Program_System_Requirements>64-bit Linux with glibc 2.31+ (Ubuntu 20.04+, Debian 11+, Fedora 34+, Arch, or compatible). AppImage runs portably; .deb installs system-wide on Debian/Ubuntu. Internet connection required for downloads. ~300 MB free disk space.</Program_System_Requirements>
@@ -92,7 +92,7 @@
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://github.com/monzer15/yalla-video-releases</Application_Info_URL>
-      <Application_Order_URL>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.1.AppImage</Application_Order_URL>
+      <Application_Order_URL>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.2.AppImage</Application_Order_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/screenshots/home.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/pad_file_linux.xml</Application_XML_File_URL>
@@ -107,10 +107,10 @@
       -->
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.1/Yalla-Video-1.1.1.AppImage</Primary_Download_URL>
-      <Secondary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.1/yalla-video_1.1.1_amd64.deb</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.1.AppImage</Additional_Download_URL_1>
-      <Additional_Download_URL_2>https://github.com/monzer15/yalla-video-releases/releases/latest/download/yalla-video_1.1.1_amd64.deb</Additional_Download_URL_2>
+      <Primary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.2/Yalla-Video-1.1.2.AppImage</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.2/yalla-video_1.1.2_amd64.deb</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.2.AppImage</Additional_Download_URL_1>
+      <Additional_Download_URL_2>https://github.com/monzer15/yalla-video-releases/releases/latest/download/yalla-video_1.1.2_amd64.deb</Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
 
@@ -141,7 +141,7 @@ SOFTWARE.</EULA>
 
   <Program_Info_Ext>
     <File_Info>
-      <File_Size_Bytes>118044140</File_Size_Bytes>
+      <File_Size_Bytes>118044165</File_Size_Bytes>
       <File_Size_K>115278</File_Size_K>
       <File_Size_MB>113</File_Size_MB>
     </File_Info>
