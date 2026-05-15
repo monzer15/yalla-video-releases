@@ -3,7 +3,7 @@
   <MASTER_PAD_VERSION_INFO>
     <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
     <MASTER_PAD_EDITOR>Yalla Video Manual PAD</MASTER_PAD_EDITOR>
-    <MASTER_PAD_INFO>PAD file follows the PAD 4.0 specification. See http://pad.asp-software.org for details. This is the generic alias and matches pad_file_windows.xml. Per-platform PADs are at pad_file_windows.xml, pad_file_macos.xml, and pad_file_linux.xml.</MASTER_PAD_INFO>
+    <MASTER_PAD_INFO>PAD file follows the PAD 4.0 specification. See http://pad.asp-software.org for details. This PAD describes the Windows installer; see pad_file_macos.xml and pad_file_linux.xml for other platforms.</MASTER_PAD_INFO>
   </MASTER_PAD_VERSION_INFO>
 
   <Company_Info>
@@ -95,7 +95,7 @@
       <Application_Order_URL>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-Setup-1.1.1.exe</Application_Order_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/screenshots/home.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/icon.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/pad_file.xml</Application_XML_File_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/pad_file_windows.xml</Application_XML_File_URL>
       <!--
         Additional screenshots:
           https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/screenshots/home.png
