@@ -92,7 +92,7 @@
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://github.com/monzer15/yalla-video-releases</Application_Info_URL>
-      <Application_Order_URL>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.2.AppImage</Application_Order_URL>
+      <Application_Order_URL>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.2-x86_64.AppImage</Application_Order_URL>
       <Application_Screenshot_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/screenshots/home.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/icon.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/monzer15/yalla-video-releases/master/pad_file_linux.xml</Application_XML_File_URL>
@@ -107,9 +107,9 @@
       -->
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.2/Yalla-Video-1.1.2.AppImage</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.2/Yalla-Video-1.1.2-x86_64.AppImage</Primary_Download_URL>
       <Secondary_Download_URL>https://github.com/monzer15/yalla-video-releases/releases/download/v1.1.2/yalla-video_1.1.2_amd64.deb</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.2.AppImage</Additional_Download_URL_1>
+      <Additional_Download_URL_1>https://github.com/monzer15/yalla-video-releases/releases/latest/download/Yalla-Video-1.1.2-x86_64.AppImage</Additional_Download_URL_1>
       <Additional_Download_URL_2>https://github.com/monzer15/yalla-video-releases/releases/latest/download/yalla-video_1.1.2_amd64.deb</Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
